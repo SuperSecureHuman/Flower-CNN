@@ -1,0 +1,5 @@
+outs:
+- md5: 56997d0b6f264d88c686f5822234ae9f.dir
+  size: 41565222
+  nfiles: 8
+  path: tensorboard

@@ -1,0 +1,5 @@
+outs:
+- md5: f5080ca29d9d1f75645ecca318e37195.dir
+  size: 238884686
+  nfiles: 4313
+  path: flowers
